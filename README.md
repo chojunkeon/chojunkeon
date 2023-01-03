@@ -1,5 +1,5 @@
 Hi, I'm Jun Keon Cho
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chojunkeon&label=Profile%20views&color=0e75b6&style=flat" alt="chojunkeon" /> </p>
+
 
 - 🔭 I’m currently working on **Immersed Cyber Security**
 
@@ -17,3 +17,4 @@ Hi, I'm Jun Keon Cho
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chojunkeon&show_icons=true&locale=en&layout=compact" alt="chojunkeon" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chojunkeon&show_icons=true&locale=en" alt="chojunkeon" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chojunkeon&label=Profile%20views&color=0e75b6&style=flat" alt="chojunkeon" /> </p>
