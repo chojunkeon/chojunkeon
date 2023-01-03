@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jun Keon Cho</h1>
+Hi, I'm Jun Keon Cho
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chojunkeon&label=Profile%20views&color=0e75b6&style=flat" alt="chojunkeon" /> </p>
 
 - 🔭 I’m currently working on **Immersed Cyber Security**
