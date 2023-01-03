@@ -5,7 +5,8 @@ Hi, I'm Jun Keon Cho
 
 - 💬 Ask me about **REACT, .NET, SQL, C#, HTML, CSS**
 
-- 📫 How to reach me **jerryicho@gmail.com**<a href="https://linkedin.com/in/junkeoncho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junkeoncho" height="30" width="40" /></a>
+- 📫 How to reach me **jerryicho@gmail.com**
+- <a href="https://linkedin.com/in/junkeoncho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junkeoncho" height="30" width="40" /></a>
 
 
 
