@@ -17,4 +17,4 @@
 
 <p width = "45%"><img height = "150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chojunkeon&show_icons=true&locale=en&layout=compact" alt="chojunkeon" />&nbsp;<img height="150px"  src="https://github-readme-stats.vercel.app/api?username=chojunkeon&show_icons=true&locale=en" alt="chojunkeon" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chojunkeon&label=Profile%20views&color=0e75b6&style=flat" alt="chojunkeon" /> </p>
-<a href="https://wakatime.com/@05e7bb20-401f-483a-80e9-0fb8baabceb0"><img src="https://wakatime.com/badge/user/05e7bb20-401f-483a-80e9-0fb8baabceb0.svg" alt="Total time coded since Aug 31 2022" /></a>
+
